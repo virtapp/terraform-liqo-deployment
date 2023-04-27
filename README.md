@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/23049337/226212853-5b96a6ff-5a41-4b1c-9262-38666e43b491.png)
+![image](https://user-images.githubusercontent.com/23049337/234791437-bed14c33-7ca3-46c6-acf1-ad24d3cadd20.png)
 
  
 Kubernetes in Docker with Terraform
@@ -7,7 +7,7 @@ Kubernetes in Docker with Terraform
 
 🎯 About
 
-OpenMetadata Unlock the value of data assets with an end-to-end metadata platform that includes data discovery, governance, data quality, observability, and people collaborationd.
+Liqo is an open-source project that enables dynamic and seamless Kubernetes multi-cluster topologies, supporting heterogeneous on-premise, cloud and edge infrastructures
 🚀 Technologies
 
 OpenMetadata depends on following components to build a metadata platform
